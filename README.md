@@ -1,5 +1,4 @@
-### 안녕하세요 
-#### 개발자 오진원입니다.
+
 <!--
 **jinwon97/jinwon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
